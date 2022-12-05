@@ -143,6 +143,12 @@
       "description": "Adapted from blues. Prisma is brilliant, but I like Hasura. Hasura is like prog, it gets better every time you get into it.",
       "tags": ["hasura", "fly", "docker", "tailwind", "cypress", "msw", "vitest", "testing library", "eslint", "typescript"],
       "url": "https://github.com/k1sul1/prog-stack"
+    },
+    {
+      "name": "The Neurofunk Stack",
+      "description": "",
+      "tags": ["fly", "docker", "postgresql", "github actions", "auth", "prisma", "tailwind", "cypress", "msw", "vitest", "testing library", "prettier", "eslint", "typescript"],
+      "url": "https://github.com/neu-ro-it/neurofunk-stack"
     }
   ]
 }
